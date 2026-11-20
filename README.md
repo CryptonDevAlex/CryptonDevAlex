@@ -31,5 +31,6 @@ Busco oportunidades donde pueda aportar desde el desarrollo frontend, el trabajo
 ## 📫 Contacto
 
 - **GitHub:** [@CryptonDevAlex](https://github.com/CryptonDevAlex)
+- **LinkedIn:** [Alex Alhuay Uquiche](https://www.linkedin.com/in/alex-alhuay-uquiche-191570308/)
 
 Si estás buscando un desarrollador frontend con experiencia en Angular y Firebase, estaré encantado de conversar.
