@@ -46,10 +46,10 @@ Building production-grade applications with **Angular**, **TypeScript**, **FastA
 ## 📸 Demo Previews
 
 ### NeuroSpider OSINT Crawler
-[INSERT_DEMO_GIF_HERE]
+![Preview coming soon](https://img.shields.io/badge/Preview-coming_soon-lightgrey?style=flat-square)
 
 ### NeuroAnatomy 3D
-[INSERT_DEMO_GIF_HERE]
+![Preview coming soon](https://img.shields.io/badge/Preview-coming_soon-lightgrey?style=flat-square)
 
 ---
 
