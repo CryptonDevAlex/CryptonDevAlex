@@ -10,9 +10,10 @@ Building production-grade applications with **Angular**, **TypeScript**, **FastA
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
+| **GitCity Sec 3D** | 3D Software Cartography & Static Security Audit Platform for GitHub Repositories. Interactive 3D code city with Shannon entropy secret scanning, OSV.dev CVE auditing, dependency blast radius arcs, risk tour, and health score | `Next.js 15` `React 19` `TypeScript 5` `Tailwind 3` `Three.js` `@react-three/fiber` `@react-three/drei` `Lucide React` | [Repo](https://github.com/CryptonDevAlex/gitcity-sec-3d) · [Live Demo](https://gitcity-sec-3d.vercel.app) |
 | **🕷️ NeuroSpider OSINT Crawler** | Multi-user passive security reconnaissance platform with live SSE streaming, JWT auth, scheduled monitoring, Markdown/PDF reports, and AI-powered executive diagnostics | `Python 3.12` `FastAPI` `Playwright` `Next.js 15` `TypeScript` `Tailwind` `SQLite` `APScheduler` `OpenAI/Gemini` | [Repo](https://github.com/CryptonDevAlex/neuro-spider-crawler) • [Demo GIF](#-demo) |
 | **🧠 NeuroAnatomy 3D** | High-fidelity interactive 3D anatomical atlas with raycasting selection, dual GLTF/procedural models, layer filtering, and clinical RAG assistant (ChromaDB + Gemini/OpenAI/Mock) | `Angular 18` `TypeScript` `Three.js` `FastAPI` `ChromaDB` `LangChain` `Docker` `Tailwind` | [Repo](https://github.com/CryptonDevAlex/neuroanatomy-3d) • [Demo GIF](#-demo) |
-| **??? DocuSpider AI** | Visual multi-format document spider crawler with real-time SSE page scanning, entity extraction, and AI-assisted Spanish audit reports exported as professional Word/PDF | `Python` `FastAPI` `Next.js` `TypeScript` `Tailwind` `SSE` `OpenAI/Gemini` | [Repo](https://github.com/CryptonDevAlex/docu-spider-ai) |
+| **📄 DocuSpider AI** | Visual multi-format document spider crawler with real-time SSE page scanning, entity extraction, and AI-assisted Spanish audit reports exported as professional Word/PDF | `Python` `FastAPI` `Next.js` `TypeScript` `Tailwind` `SSE` `OpenAI/Gemini` | [Repo](https://github.com/CryptonDevAlex/docu-spider-ai) |
 | **📦 SystemEnvios** | Role-based shipment management (client/courier/admin) with real-time tracking, CRUD, statistics dashboard, and Firebase Auth/Firestore/Hosting | `Angular` `TypeScript` `Firebase Auth` `Firestore` `AngularFire` `RxJS` | [Code](https://github.com/CryptonDevAlex/SystemEnvios.github.io) • [Live Demo](https://systemenviosalex123.web.app) |
 | **🌐 Personal Portfolio** | Angular portfolio showcasing projects, skills, and experience with modern UI/UX | `Angular` `TypeScript` `Tailwind` `Firebase Hosting` | [Code](https://github.com/CryptonDevAlex/Alex.github.io) |
 
@@ -45,6 +46,9 @@ Building production-grade applications with **Angular**, **TypeScript**, **FastA
 ---
 
 ## 📸 Demo Previews
+
+### GitCity Sec 3D
+[![Live Demo](https://img.shields.io/badge/Live_Demo-gitcity--sec--3d.vercel.app-22d3ee?style=for-the-badge&logo=vercel&logoColor=white)](https://gitcity-sec-3d.vercel.app)
 
 ### NeuroSpider OSINT Crawler
 ![Preview coming soon](https://img.shields.io/badge/Preview-coming_soon-lightgrey?style=flat-square)
